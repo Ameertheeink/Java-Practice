@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="javaee-api-8.0.1">
+    <CLASSES>
+      <root url="jar://D:/New folder/jar_files/2024/javaee-api-8.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/com.jcraft.jsch_0.1.27.jar/com.jcraft.jsch_0.1.27.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
